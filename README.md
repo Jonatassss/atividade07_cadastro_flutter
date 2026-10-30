@@ -46,4 +46,10 @@ Ou cole o conteúdo de `lib/main.dart` em https://dartpad.dev e clique em **Run*
 
 ## Resultado
 
+Cadastro com todos os campos válidos (SnackBar de sucesso):
+
 ![Resultado](docs/resultado.png)
+
+Tentativa de cadastro com os campos vazios (erros campo a campo e SnackBar de erro):
+
+![Erros](docs/erros.png)
